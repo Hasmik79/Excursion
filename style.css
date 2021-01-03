@@ -1,0 +1,38 @@
+.main
+{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    align-self: center;
+}
+.link
+{
+    color: aquamarine;
+    font-size: 16px;
+}
+video
+{
+    background-color: black;
+    text-align: center;
+}
+.secondary
+{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+img
+{
+    background-color: black;
+}
+p{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+footer
+{
+    color: gray;
+    text-align: right;
+}
