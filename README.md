@@ -17,8 +17,8 @@
     </video>
     <h1 class="secondary">Your personal travel guide</h1>
     <p>Excursion remembers place you like, and recommends new points of interest around you.</p>
-    <img src="resources/images/camp.jpg"><br><br>
-    <img src="resources/images/phone.png" ><br>
+    <p><img src="resources/images/camp.jpg"></p>
+    <p><img src="resources/images/phone.png"></p>
     <h1 class="last">Coming Soon for iPnone and Android</h1>
     <p class="link"><a href="#">Download Excursion(Coming soon!)</a></p>
 
